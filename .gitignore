@@ -1,0 +1,32 @@
+#ignore target under current directory and all subdirectories:
+
+#ignore settings & gitignore file
+
+#ignore svn files
+.svn
+*/.svn
+
+#ignore sample fils
+
+.idea
+*.iml
+
+#ignore searcher/logs
+
+#ignore .DS_Store
+.DS_Store
+*/.DS_Store
+
+#ignore .pyc
+*.pyc
+
+#generated git properties file.
+git.properties
+
+#jupyter checkoutpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints
+
+#
+
+
